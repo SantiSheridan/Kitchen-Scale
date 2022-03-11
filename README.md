@@ -10,3 +10,6 @@ Para la visualizacion se opto por una pantalla 128x32 SSD1306 y para el control 
 ![Scale3](https://github.com/SantiSheridan/Kitchen-Scale/blob/main/Img/Scale3.jpeg)
 ![Scale2](https://github.com/SantiSheridan/Kitchen-Scale/blob/main/Img/Scale2.jpeg)
 ![Scale1](https://github.com/SantiSheridan/Kitchen-Scale/blob/main/Img/Scale1.jpeg)
+
+
+Proximamente se agregaran los archivos de calibracion automatica.
