@@ -11,5 +11,8 @@ Para la visualizacion se opto por una pantalla 128x32 SSD1306 y para el control 
 ![Scale2](https://github.com/SantiSheridan/Kitchen-Scale/blob/main/Img/Scale2.jpeg)
 ![Scale1](https://github.com/SantiSheridan/Kitchen-Scale/blob/main/Img/Scale1.jpeg)
 
+## Programacion
+Al Microcontrolador lo programe con PlatformIO + VSCode pero tambine se puede programar desde el ArduinoIDE cambiando la extension de los archivos .cpp a .ino y eliminando la linea #include<arduino.h> necesaria en PlatformIO.
+En caso de que se quisiera programar desde Platformio dejo la configuracion .ini en el directorio Software
 
 Proximamente se agregaran los archivos de calibracion automatica.
